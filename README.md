@@ -1,1 +1,1 @@
-this reop is suited to ros dwa navigation
+this repo is suited to ros dwa navigation
